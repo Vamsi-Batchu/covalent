@@ -112,7 +112,7 @@ redirects = {
     "about/why_covalent":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/why-covalent",
     "source/api/executors/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
     "how_to/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/how-to/how-to-guide",
-    "featurs/triggers":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/triggers",
+    "features/triggers":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/triggers",
     # "doc/source/api/executors/dask":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/dask",
     # "source/api/executors/ssh":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/ssh",
     # "doc/api/executors/slurm":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/slurm",
