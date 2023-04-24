@@ -110,5 +110,5 @@ redirects = {
     "credentials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "plugins":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
     "why_covalent":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/why-covalent",
-    "api/executors/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
+    "/api/executors/index.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
 }
