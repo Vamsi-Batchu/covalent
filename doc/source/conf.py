@@ -109,6 +109,12 @@ redirects = {
     "tutorials/tutorials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials",
     "credentials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "plugins":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
-    "why_covalent":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/why-covalent",
+    "about/why_covalent":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/why-covalent",
     "/api/executors/index.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
+    "/api/executors/dask.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/dask",
+    "/api/executors/ssh.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/ssh",
+    "/api/executors/slurm.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/slurm",
+    "/api/executors/awsplugins.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/aws-plugins",
+    "/api/executors/awsec2.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/awsec2",
+    "/api/executors/awsecs.rst":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/awsecs",
 }
