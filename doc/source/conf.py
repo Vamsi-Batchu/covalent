@@ -134,7 +134,8 @@ redirects = {
     "webapp_ui/graph_view/graphs":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/transport-graph",
     "webapp_ui/graph_view/lattice":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/lattice-sidebar",
     "webapp_ui/graph_view/electron":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/electron-sidebar",
-    "index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/",
+    # "index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/", 
+    remove this when you are pushing the code again
     "getting_started/quick_start/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/quick-start",
     "getting_started/first_experiment/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/first-experiment",
     "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
