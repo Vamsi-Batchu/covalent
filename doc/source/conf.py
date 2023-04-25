@@ -106,12 +106,12 @@ myst_heading_anchors = 3
 
 redirects = {
     "troubleshooting":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/troubleshooting",
-    "tutorials/tutorials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials",
+    # "tutorials/tutorials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials",
     "credentials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "plugins":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
     "about/why_covalent":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/why-covalent",
     "api/executors/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
-    "how_to/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/how-to/how-to-guide",
+    # "how_to/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/how-to/how-to-guide",
     "features/triggers":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/triggers",
     "api/executors/dask":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/dask/",
     "api/executors/ssh":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/api-reference/executors/ssh",
@@ -134,7 +134,14 @@ redirects = {
     "webapp_ui/graph_view/graphs":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/transport-graph",
     "webapp_ui/graph_view/lattice":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/lattice-sidebar",
     "webapp_ui/graph_view/electron":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/user-interface/electron-sidebar",
-    "/":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/",
+    "index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/",
     "getting_started/quick_start/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/quick-start",
     "getting_started/first_experiment/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/first-experiment",
+    "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
+    "concepts/basics":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-basics",
+    "concepts/architecture":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-architecture",
+    "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
+    "concepts/server_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-services",
+    "concepts/ui_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-gui",
+
 }
