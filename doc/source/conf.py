@@ -137,7 +137,7 @@ redirects = {
     "index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/",
     "getting_started/quick_start/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/quick-start",
     "getting_started/first_experiment/index":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/get-started/first-experiment",
-    "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/"
+    "concepts/concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "concepts/basics":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-basics",
     "concepts/architecture":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-architecture",
     "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
