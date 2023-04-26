@@ -104,7 +104,8 @@ myst_enable_extensions = [
 ]
 myst_heading_anchors = 3
 
-baseurl="https://develop.d19pvbre9ckryz.amplifyapp.com"
+# baseurl="https://develop.d19pvbre9ckryz.amplifyapp.com"
+baseurl="galigali"
 
 redirects = {
     "troubleshooting": baseurl + "/docs/user-documentation/troubleshooting",
