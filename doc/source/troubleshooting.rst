@@ -1,5 +1,5 @@
 #####################
-Troubleshooting guide - gsgs
+Troubleshooting guide
 #####################
 
 This page is dedicated to solutions to common issues encountered when using the Covalent platform.
