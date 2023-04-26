@@ -24,7 +24,7 @@ COVALENT DOCUMENTATION
    <img alt="Supported Platforms Badge" src="https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blueviolet">
    </center>
 
-Welcome to Covalent - gg
+Welcome to Covalent 
 ###################
 
 |

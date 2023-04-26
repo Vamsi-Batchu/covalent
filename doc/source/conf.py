@@ -144,4 +144,6 @@ redirects = {
     "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
     "concepts/server_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-services",
     "concepts/ui_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-gui",
+    "tutorials/0_ClassicalMachineLearning/mnist_images/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/mnist/"
+    
 }
