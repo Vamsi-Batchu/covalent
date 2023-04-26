@@ -104,8 +104,10 @@ myst_enable_extensions = [
 ]
 myst_heading_anchors = 3
 
+baseurl="https://develop.d19pvbre9ckryz.amplifyapp.com"
+
 redirects = {
-    "troubleshooting":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/troubleshooting",
+    "troubleshooting": baseurl + "/docs/user-documentation/troubleshooting",
     # "tutorials/tutorials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials",
     "credentials":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/credentials/",
     "plugins":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/features/executor-plugins/exe",
@@ -144,6 +146,11 @@ redirects = {
     "concepts/api_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-sdk",
     "concepts/server_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-services",
     "concepts/ui_concepts":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/concepts/covalent-arch/covalent-gui",
-    "tutorials/0_ClassicalMachineLearning/mnist_images/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/mnist/"
-    
+    "tutorials/0_ClassicalMachineLearning/mnist_images/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/mnist/",
+    "tutorials/1_QuantumMachineLearning/pennylane_hybrid/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/hybrid/",
+    "tutorials/0_ClassicalMachineLearning/autoencoders/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/autoencoders/",
+    "tutorials/5_QPUAccessIBM/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/qpuaccessibm/",
+    "tutorials/1_QuantumMachineLearning/pennylane_iris_classification/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/iris/",
+    "tutorials/1_QuantumMachineLearning/pennylane_parity_classifier/source":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/parityclassify/",
+    "tutorials/machine_learning/dnn_comparison":"https://develop.d19pvbre9ckryz.amplifyapp.com/docs/user-documentation/tutorials/dnn_comparison/"
 }
