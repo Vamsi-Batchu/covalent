@@ -107,7 +107,8 @@ myst_heading_anchors = 3
 baseurl="https://development.d19pvbre9ckryz.amplifyapp.com"
 
 redirects = {
-    "tutorials/tutorials": {baseurl}/{"/docs/user-documentation/tutorials"},
+    # "tutorials/tutorials": baseurl + "/docs/user-documentation/tutorials",
+    "tutorials/tutorials": '%s/%s' % (baseurl , "/docs/user-documentation/tutorials")
     "credentials":  baseurl + "/docs/user-documentation/credentials/",
     "api/executors/index":  baseurl + "/docs/features/executor-plugins/exe",
     "how_to/index":  baseurl + "/docs/user-documentation/how-to/how-to-guide",
