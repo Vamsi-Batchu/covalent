@@ -107,37 +107,11 @@ myst_heading_anchors = 3
 baseurl="https://develop.d19pvbre9ckryz.amplifyapp.com"
 
 redirects = {
-    "troubleshooting": baseurl + "/docs/user-documentation/troubleshooting",
-    # "tutorials/tutorials":  baseurl + "/docs/user-documentation/tutorials",
+    "tutorials/tutorials":  `${baseurl}/docs/user-documentation/tutorials`,
     "credentials":  baseurl + "/docs/user-documentation/credentials/",
-    "plugins":  baseurl + "/docs/features/executor-plugins/exe",
-    "about/why_covalent":  baseurl + "/docs/why-covalent",
     "api/executors/index":  baseurl + "/docs/features/executor-plugins/exe",
-    # "how_to/index":  baseurl + "/docs/user-documentation/how-to/how-to-guide",
-    "features/triggers":  baseurl + "/docs/features/triggers",
-    "api/executors/dask":  baseurl + "/docs/user-documentation/api-reference/executors/dask/",
-    "api/executors/ssh":  baseurl + "/docs/user-documentation/api-reference/executors/ssh",
-    "api/executors/slurm":  baseurl + "/docs/user-documentation/api-reference/executors/slurm",
-    "api/executors/awsplugins":  baseurl + "/docs/features/executor-plugins/aws-plugins",
-    "api/executors/awsec2":  baseurl + "/docs/user-documentation/api-reference/executors/awsec2",
-    "api/executors/awsecs":  baseurl + "/docs/user-documentation/api-reference/executors/awsecs",
-    "glossary/index":  baseurl + "/docs/glossary",
-    "features/cancel":  baseurl + "/docs/features/cancellation",
-    "webapp_ui/index":  baseurl + "/docs/user-documentation/user-interface/the-ui",
-    "webapp_ui/dashboard/index":  baseurl + "/docs/user-documentation/user-interface/dashboard",
-    "webapp_ui/dashboard/summary":  baseurl + "/docs/user-documentation/user-interface/dispatch-summary",
-    "webapp_ui/dashboard/dispatch_list":  baseurl + "/docs/user-documentation/user-interface/workflow-dispatch-list",
-    "webapp_ui/dashboard/navigation/pagination":  baseurl + "/docs/user-documentation/user-interface/pagination",
-    "webapp_ui/dashboard/navigation/search":  baseurl + "/docs/user-documentation/user-interface/search",
-    "webapp_ui/dashboard/navigation/sort":  baseurl + "/docs/user-documentation/user-interface/sort",
-    "webapp_ui/dashboard/navigation/filter":  baseurl + "/docs/user-documentation/user-interface/filter",
-    "webapp_ui/dashboard/navigation/delete_dispatches":  baseurl + "/docs/user-documentation/user-interface/workflow-dispatch-deletetion",
-    "webapp_ui/graph_view/index":  baseurl + "/docs/user-documentation/user-interface/graph-view",
-    "webapp_ui/graph_view/graphs":  baseurl + "/docs/user-documentation/user-interface/transport-graph",
-    "webapp_ui/graph_view/lattice":  baseurl + "/docs/user-documentation/user-interface/lattice-sidebar",
-    "webapp_ui/graph_view/electron":  baseurl + "/docs/user-documentation/user-interface/electron-sidebar",
+    "how_to/index":  baseurl + "/docs/user-documentation/how-to/how-to-guide",
     # "index":  baseurl + "/docs/", 
-    # remove this when you are pushing the code again
     "getting_started/quick_start/index":  baseurl + "/docs/get-started/quick-start",
     "getting_started/first_experiment/index":  baseurl + "/docs/get-started/first-experiment",
     "concepts/concepts":  baseurl + "/docs/user-documentation/credentials/",
@@ -194,4 +168,6 @@ redirects = {
     "how_to/collection/query_lattice_execution_result":  baseurl + "/docs/user-documentation/how-to/status/query-lattice-execution-result",
     "how_to/collection/query_electron_execution_result":  baseurl + "/docs/user-documentation/how-to/status/query-electron-execution-result",
     "how_to/config/customization":  baseurl + "/docs/user-documentation/how-to/customization",
+
+    # only one newly added page dont have the develop branch url
 }
