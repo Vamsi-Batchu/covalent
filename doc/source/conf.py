@@ -104,7 +104,7 @@ myst_enable_extensions = [
 ]
 myst_heading_anchors = 3
 
-baseurl="docs.covalent.xyz"
+baseurl="https://docs.covalent.xyz"
 
 redirects = {
     "tutorials/tutorials": '%s%s' % (baseurl , "/docs/user-documentation/tutorials"),
