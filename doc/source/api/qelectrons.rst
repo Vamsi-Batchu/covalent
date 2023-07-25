@@ -3,4 +3,4 @@
 Quantum Electrons
 """""""""""""""""""""""""""
 
-.. autodecorator:: covalent.qelectron
+.. autopydantic_model:: covalent.qelectron
