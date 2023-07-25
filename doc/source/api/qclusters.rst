@@ -3,4 +3,4 @@
 Quantum Clusters
 """""""""""""""""""""""""""
 
-.. autopydantic_model:: covalent.executor.QCluster
+.. autopydantic_model:: covalent.experimental.covalent_qelectron.executor.clusters
