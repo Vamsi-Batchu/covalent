@@ -25,6 +25,7 @@ Plugins
    awsec2
    awsecs
    awsbatch
+   newChages
 
 Base executor
 *************
