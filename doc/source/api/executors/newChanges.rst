@@ -3,6 +3,13 @@
 New Changes - Python Files
 """""""""""""""""""""""""""
 
+
+.. ----------------------------------------------------------------------
+
+.. _interface_functions:
+.. _cloud_executor:
+.. _auth_config_manager:
+
 File -1 
 
 Interface - 
