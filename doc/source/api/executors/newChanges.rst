@@ -8,7 +8,7 @@ File -1
 Interface - 
    
 
-.. automodule:: covalent.doc.source.api.executors.interface_functions
+.. automodule:: covalent.executors.interface_functions
    :imported-members:
    :members:
    :undoc-members:
