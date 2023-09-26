@@ -31,7 +31,7 @@ using auto module
 
 using class - 
 
-.. autoclass:: covalent.executors.cloudexecutor
+.. autoclass:: covalent.cloudexecutor
    :members:
 
 
