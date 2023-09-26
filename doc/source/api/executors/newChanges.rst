@@ -76,8 +76,22 @@ Cloud Executor - (using file name - 1)
 INterface functions - (using file name)
 
 .. autoclass:: covalent.executors.interface_functions
+   :inherited-members:
    :members:
 
-INterface functions - (using file name)
+INterface functions - (using file name functions)
 
 .. autofunction:: covalent.executors.interface_functions
+    :inherited-members:
+
+
+- Auth configs
+
+.. autoclass:: covalent.executors.auth_config_manager.AuthConfigManager
+    :members:
+    :inherited-members:
+
+TYpe - 2
+
+.. autofunction:: covalent.executors.auth_config_manager.AuthConfigManager
+
