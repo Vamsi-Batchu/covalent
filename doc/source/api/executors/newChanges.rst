@@ -8,11 +8,35 @@ File -1
 Interface - 
    
 
-.. automodule:: covalent.executors.interface_functions
+.. automodule:: executors.interface_functions
    :imported-members:
    :members:
    :undoc-members:
    :show-inheritance:
+
+
+Cloud Executors - 
+
+.. autoclass:: covalent.executors.cloudexecutor
+   :members:
+
+
+using auto module
+
+.. automodule:: covalent.executors.cloudexecutor
+   :imported-members:
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+using class - 
+
+.. autoclass:: covalent.executors.cloudexecutor
+   :members:
+
+
+using function - 
+.. autofunction:: covalent.executors.cloudexecutor
 
 
 Cloud Executor - (using folder name)
