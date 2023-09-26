@@ -36,19 +36,23 @@ using class -
 
 
 using function - 
-.. autofunction:: covalent.executors.cloudexecutor
+.. autofunction:: covalent.executors.cloud_executor.cloudexecutor
 
 
 Cloud Executor - (using folder name)
 
-.. autoclass:: executors.cloudexecutor
+.. autoclass:: covalent.executors.cloud_executor.cloudexecutor
    :members:
 
 
 Cloud Executor - (using file name)
 
-.. autoclass:: cloud_executor.cloudexecutor
+.. autoclass:: covalent.executors.cloud_exeutor.cloudexecutor
    :members:
+
+cloud executor - using class name
+
+.. autofunction:: covalent.executors.cloud_exeutor.cloudexecutor
 
 
 Cloud Executor - (using folder name - 1)
@@ -66,3 +70,14 @@ Cloud Executor - (using file name - 1)
    :members:
    :undoc-members:
    :show-inheritance:
+
+
+
+INterface functions - (using file name)
+
+.. autoclass:: covalent.executors.interface_functions
+   :members:
+
+INterface functions - (using file name)
+
+.. autofunction:: covalent.executors.interface_functions
